@@ -6,4 +6,4 @@ document.querySelector('main').remove();
 const newHeader = null;
 var newHeader = document.createElement('h1#victory');
 
-newHeader.innerHTML = "Katie is the champion!";
+newHeader.innerText = "Katie is the champion!";
